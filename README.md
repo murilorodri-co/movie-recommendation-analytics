@@ -23,7 +23,7 @@ Este projeto consiste em um **Dashboard Interativo de Recomendação de Filmes**
 ## 🚀 Como Executar Localmente
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/movie-recommendation-dashboard.git
+git clone https://github.com/murilorodri-co/movie-recommendation-analytics.git
 cd movie-recommendation-dashboard
 ```
 
@@ -58,11 +58,8 @@ movie-recommendation-dashboard/
 ```
 
 ## 🌐 Exemplos de Visualizações
-- Histogramas de notas atribuídas pelos usuários.
 - Barras horizontais com os top filmes e gêneros.
-- Scatterplots mostrando relação entre popularidade e nota média.
-- Heatmaps de correlação entre métricas do dataset.
-- Gráficos interativos com Plotly para explorar tendências.
+- Gráficos com Matplotlib e Seaborn para explorar tendências.
 
 ## 📫 Contato
 Desenvolvido por **Murilo Rodrigues**
