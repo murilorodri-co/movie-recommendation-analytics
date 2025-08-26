@@ -6,12 +6,14 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.12-cyan)
 
 ## Sobre o Projeto
-Este projeto consiste em um **Dashboard Interativo de Recomendação de Filmes**, desenvolvido com **Python**, permitindo explorar avaliações de usuários, tendências de popularidade e recomendações personalizadas. O diferencial do projeto é a combinação de **análise exploratória, visualizações interativas e recomendações baseadas em popularidade**, pronto para portfólio de análise de dados.
+Este projeto consiste em um **Sistema Interativo de Recomendação de Filmes**, desenvolvido com **Python**, permitindo explorar avaliações de usuários, tendências de popularidade e recomendações personalizadas. O diferencial do projeto é a combinação de **análise exploratória, visualizações interativas e recomendações baseadas em popularidade e preferências do usuário**, pronto para portfólio de análise de dados.
 
 ## Funcionalidades
 - Visualização das **notas atribuídas pelos usuários** com histogramas interativos.
 - Ranking dos **top filmes mais populares e melhor avaliados** com gráficos de barras interativos.
 - Sistema de **recomendação simples baseado em popularidade e nota média**.
+- Sistema de **recomendação personalizada baseado nos gêneros mais assistidos pelo usuário**, mostrando os top 3 gêneros preferidos.
+- Possibilidade do usuário escolher **até 5 gêneros ou ser surpreendido com filmes aleatórios**.
 - Análise de **gêneros mais populares e bem avaliados** com gráficos de barras horizontais.
 
 ## Tecnologias Utilizadas
@@ -60,9 +62,8 @@ movie-recommendation-dashboard/
 ## 🌐 Exemplos de Visualizações
 - Histogramas de notas atribuídas pelos usuários.
 - Barras horizontais com os top filmes e gêneros.
-- Scatterplots mostrando relação entre popularidade e nota média.
-- Heatmaps de correlação entre métricas do dataset.
-- Gráficos interativos com Plotly para explorar tendências.
+- Gráficos demonstrando relação entre popularidade e nota média.
+- Recomendações personalizadas por gêneros escolhidos pelo usuário ou filmes aleatórios.
 
 ## 📫 Contato
 Desenvolvido por **Murilo Rodrigues**
